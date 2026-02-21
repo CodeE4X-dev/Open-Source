@@ -19,7 +19,7 @@ end
 
 local function executeMain()
     local scriptSrc = [[
-    loadstring(game:HttpGet("https://4x.wtf/loader"))()
+    loadstring(game:HttpGet("https://4x.wtf/main"))()
     ]]
     
     local success, func = pcall(loadstring, scriptSrc)
