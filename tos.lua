@@ -106,7 +106,7 @@ else
     message.Name = "Message"
     message.Size = UDim2.new(1, 0, 0, 40)
     message.BackgroundTransparency = 1
-    message.Text = "Dengan melanjutkan, Anda menyetujui Terms of Service NodeX"
+    message.Text = "By continuing, you agree to the NodeX Terms of Service"
     message.TextColor3 = Color3.fromRGB(220, 220, 220)
     message.Font = Enum.Font.Gotham
     message.TextSize = 14
